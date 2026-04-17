@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="stealer_dc/stealer_dc.vcxproj" Id="9b6c1058-f034-4ffc-90b7-331ec3582e74" />
+</Solution>
